@@ -1,0 +1,23 @@
+target
+test-output
+repo
+/src/main/webapp/META-INF/
+
+#Ignorar arquivos e pastas do eclipse
+.classpath
+.project
+.settings
+
+#Ignorar arquivos e pastas do netbeans
+nb-configuration.xml
+
+#Ignorar arquivos e pastas do intelliJ
+*.idea
+.idea
+*.iml
+
+#Ignorar arquivos e pastas compactadas
+*.7zip
+*.7z
+*.zip
+*.jar
