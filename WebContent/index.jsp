@@ -32,7 +32,9 @@
 		</div>
 		
 	    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
-	    <script type="text/javascript" src="js/myApp.js"></script>
+	    <script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+	    <script src="js/myApp.js"></script>
+	    <script src="js/products.js"></script>
 	</body>
 	
 </html>
